@@ -6,6 +6,7 @@
 A web-based carpooling platform that connects drivers and passengers to reduce traffic congestion, save fuel costs, and promote eco-friendly transportation.
 
 ---
+![Home Page](static/carpool.png)
 
 ## 📖 About the Project
 
